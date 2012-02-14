@@ -1,0 +1,11 @@
+'''
+    Author: James Meldrum
+    Date: January 10,2012
+    Lang: Python 2.5
+    Desc: Public fork of my personal site :D
+    Dependencies: 
+	Bundled:
+		GAE
+		Web2Py
+		jQuery
+'''
